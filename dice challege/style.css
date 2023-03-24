@@ -1,0 +1,46 @@
+body {
+    /* position: relative; */
+
+    background-color: black;
+}
+
+.container {
+    color: green;
+    font-size: 40px;
+    text-align: center;
+   
+
+}
+
+.dice{
+    color: green;
+    font-size: 17px;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    position: relative;
+    /* left: 40px;
+    right: 30px; */
+   
+}
+
+
+footer{
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.btn{
+position: relative;
+left: 50px;
+margin: 0px auto;
+padding: 3px 9px;
+font-size: 20px;
+background-color: aqua;
+color: white;
+cursor: pointer;
+}
+.btn:hover{
+    color: red;
+    opacity: 0.5;
+}
